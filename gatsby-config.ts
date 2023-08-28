@@ -27,6 +27,7 @@ const config: GatsbyConfig = {
 
         name: `Aleksandar Koželj`,
         location: `Frankfurt am Main, Germany`,
+        
         showThemeAuthor: false,
         socialMedia: [
           {
